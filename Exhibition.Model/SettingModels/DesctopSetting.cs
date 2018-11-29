@@ -9,5 +9,6 @@ namespace Exhibition.Model.SettingModels
 	class DesctopSetting
 	{
 		int Id;
+		String Name;
 	}
 }
